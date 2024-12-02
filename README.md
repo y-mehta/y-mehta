@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- I’m a senior security engineer with a strong development mindset, focused on creating solutions that automate security processes and integrate seamlessly into development workflows. Over the years, I’ve had the chance to contribute to everything from securing infrastructure and web applications to developing tools that make security easier for developers.
+
 <!--
 **y-mehta/y-mehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
